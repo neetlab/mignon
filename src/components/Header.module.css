@@ -1,0 +1,9 @@
+.header {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 2em;
+}
