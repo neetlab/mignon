@@ -5,6 +5,7 @@
 
 .post {
   display: flex;
+  justify-content: space-between;
   gap: 16px;
 }
 
@@ -13,7 +14,7 @@
 }
 
 .post_container {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 16px;
 }

@@ -39,14 +39,6 @@ export default async function Page() {
       <div className={styles.post_container}>
         {data.contents.map((blog) => (
           <div className={styles.post} key={blog.id}>
-            <Image
-              className={styles.eyecatch}
-              src={blog.eyecatch.url}
-              width={blog.eyecatch.width}
-              height={blog.eyecatch.height}
-              alt={blog.eyecatch.alt ?? ""}
-            />
-
             <div>
               <div>
                 {blog.lang}
@@ -60,6 +52,14 @@ export default async function Page() {
                 {blog.hashtags.map((v) => `#${v.title}`).join(", ")}
               </div>
             </div>
+
+            <Image
+              className={styles.eyecatch}
+              src={blog.eyecatch.url}
+              width={blog.eyecatch.width}
+              height={blog.eyecatch.height}
+              alt={blog.eyecatch.alt ?? ""}
+            />
           </div>
         ))}
       </div>
