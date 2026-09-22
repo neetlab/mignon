@@ -6,11 +6,11 @@ export const Nav: FC = () => {
   return (
     <nav className={styles.nav}>
       <ul>
-        {/* <li> */}
-        {/*   <Link href="/blog"> */}
-        {/*     ブログ */}
-        {/*   </Link> */}
-        {/* </li> */}
+        <li>
+          <Link href="/posts">
+            ブログ
+          </Link>
+        </li>
 
         <li>
           <Link href="/bio">
