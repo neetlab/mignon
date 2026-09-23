@@ -2,8 +2,15 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ryo Igarashi",
-  description: "le site de web de ryo igarashi",
+  metadataBase: new URL("https://neet.love"),
+  title: {
+    default: "Ryō Igarashi",
+    template: "%s | Ryō Igarashi",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout(props: LayoutProps<"/">) {

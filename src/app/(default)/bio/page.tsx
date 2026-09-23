@@ -39,6 +39,20 @@ export default function Bio() {
       </dl>
 
       <h2>
+        登壇
+      </h2>
+
+      <dl>
+        <dt>次世代 Web カンファレンス 2023（アクセシビリティ）</dt>
+        <dd>https://nextwebconf.connpass.com/event/300174/</dd>
+      </dl>
+
+      <dl>
+        <dt>Front-End Study #3 「『当たり前』を作りだす Web アクセシビリティ」</dt>
+        <dd>https://www.youtube.com/watch?v=eX8Lf20ETew</dd>
+      </dl>
+
+      <h2>
         言語
       </h2>
 
@@ -50,7 +64,7 @@ export default function Bio() {
         <dd>A2レベル</dd>
 
         <dt>アイヌ語</dt>
-        <dd>-</dd>
+        <dd>中級程度</dd>
       </dl>
     </>
   )

@@ -28,3 +28,8 @@
   text-align: center;
 }
 
+*[lang=ja] .prose em {
+  font-style: normal;
+  text-emphasis: filled sesame;
+}
+
