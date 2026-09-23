@@ -11,10 +11,10 @@ export const Header: FC = () => {
 
       <div className={styles.title}>
         <Link href="/">
-          Défaut de l&apos;Éducation
+          Ryō Igarashi
         </Link>
         <p>
-          教育の欠陥
+          有機的知識人
         </p>
       </div>
     </header>
