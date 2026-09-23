@@ -1,5 +1,5 @@
 .page_title {
-  font-size: 7em;
+  font-size: 4em;
   line-height: 1;
-  margin: 48px 0;
+  margin: var(--space-4) 0;
 }

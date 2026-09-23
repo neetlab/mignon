@@ -1,13 +1,13 @@
 .post_container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 24px;
+  gap: var(--space-3);
 }
 
 .post {
   display: flex;
   justify-content: space-between;
-  gap: 16px;
+  gap: var(--space-2);
 }
 
 .post a {
@@ -18,7 +18,7 @@
   position: relative;
   width: 100px;
   height: 100px;
-  border-radius: 12px;
+  border-radius: var(--radius-1);
   overflow: hidden;
 }
 

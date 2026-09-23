@@ -1,11 +1,11 @@
 .header {
   width: 100%;
-  max-width: 900px;
+  max-width: var(--screen-m);
   margin: 0 auto;
 }
 
 .title {
-  margin: 48px auto;
+  margin: var(--space-4) auto;
 }
 
 .title a {

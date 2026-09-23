@@ -4,7 +4,7 @@
 }
 
 .prose p {
-  margin-bottom: 24px;
+  margin-bottom: var(--space-3);
 }
 
 .prose img {
@@ -15,11 +15,11 @@
 .prose h2 {
   font-size: 2em;
   line-height: 1;
-  margin-bottom: 24px;
+  margin-bottom: var(--space-3);
 }
 
 .prose figure {
-  margin-bottom: 24px;
+  margin-bottom: var(--space-3);
 }
 
 .prose figcaption {
@@ -28,8 +28,8 @@
   text-align: center;
 }
 
-*[lang=ja] .prose em {
-  font-style: normal;
-  text-emphasis: filled sesame;
-}
-
+/* *[lang=ja] .prose em { */
+/*   font-style: normal; */
+/*   text-emphasis: filled sesame; */
+/* } */
+/**/

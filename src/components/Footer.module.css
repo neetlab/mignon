@@ -1,14 +1,14 @@
 .footer {
   width: 100%;
-  max-width: 900px;
-  margin: 32px auto;
+  max-width: var(--screen-m);
+  margin: var(--space-4) auto;
 }
 
 .footer ul {
   display: flex;
   padding: 0;
   list-style: none;
-  margin: 24px auto;
+  margin: var(--space-3) auto;
 }
 
 .footer ul li:not(:last-child)::after {
