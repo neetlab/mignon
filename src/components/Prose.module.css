@@ -1,0 +1,30 @@
+.prose {
+  width: 100%;
+  font-size: 1.25em;
+}
+
+.prose p {
+  margin-bottom: 24px;
+}
+
+.prose img {
+  max-width: 100%;
+  height: auto;
+}
+
+.prose h2 {
+  font-size: 2em;
+  line-height: 1;
+  margin-bottom: 24px;
+}
+
+.prose figure {
+  margin-bottom: 24px;
+}
+
+.prose figcaption {
+  font-size: 0.8em;
+  color: #dddddd;
+  text-align: center;
+}
+

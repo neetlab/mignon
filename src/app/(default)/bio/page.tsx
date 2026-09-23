@@ -1,9 +1,11 @@
+import { PageTitle } from "@/components/PageTitle";
+
 export default function Bio() {
   return (
     <>
-      <h1>
+      <PageTitle>
         プロフィール
-      </h1>
+      </PageTitle>
 
       <p>
         はじめまして。私は主にウェブ分野の開発を主に行うソフトウェア開発者です。

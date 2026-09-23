@@ -8,13 +8,15 @@ export const Header: FC = () => {
     <header className={styles.header}>
       <Nav />
 
-      <Link href="/" className={styles.title}>
-        Ryō Igarashi
-      </Link>
 
-      <p>
-        aime les ordinateurs et les langues
-      </p>
+      <div className={styles.title}>
+        <Link href="/">
+          Ryō Igarashi
+        </Link>
+        <p>
+          有機的知識人
+        </p>
+      </div>
     </header>
   );
 };

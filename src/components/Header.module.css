@@ -5,5 +5,11 @@
 }
 
 .title {
-  font-size: 2em;
+  margin: 48px auto;
+}
+
+.title a {
+  font-size: 3em;
+  color: white;
+  margin: 
 }

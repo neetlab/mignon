@@ -1,0 +1,8 @@
+.contact_list dt {
+  font-weight: 600; 
+}
+
+.contact_list dd {
+  margin-left: 16px;
+  margin-bottom: 16px;
+}

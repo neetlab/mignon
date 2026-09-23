@@ -1,0 +1,126 @@
+[
+  {
+    "type": "email",
+    "name": "Email",
+    "label": "n33t5hin@gmail.com",
+    "copyable": "n33t5hin@gmail.com",
+    "bgColor": "#1981e0",
+    "fgColor": "white",
+    "suggested": true
+  },
+  {
+    "type": "twitter",
+    "name": "X",
+    "label": "@TheGodOfNeet",
+    "url": "https://x.com/thegodofneet",
+    "bgColor": "#1a97f0",
+    "fgColor": "white",
+    "suggested": true
+  },
+  {
+    "type": "discord",
+    "name": "Discord",
+    "label": "@thegodofneet",
+    "copyable": "thegodofneet",
+    "bgColor": "#7289da",
+    "fgColor": "white",
+    "suggested": true
+  },
+  {
+    "type": "mastodon",
+    "name": "Mastodon",
+    "label": "@neet@mastodon.social",
+    "url": "https://mastodon.social/@neet",
+    "bgColor": "#297ccd",
+    "fgColor": "white",
+    "suggested": true
+  },
+  {
+    "type": "github",
+    "name": "GitHub",
+    "label": "@neet",
+    "url": "https://github.com/neet",
+    "bgColor": "black",
+    "fgColor": "white"
+  },
+  {
+    "type": "orcid",
+    "name": "ORCID",
+    "label": "0009-0009-2157-7734",
+    "url": "https://orcid.org/0009-0009-2157-7734",
+    "bgColor": "black",
+    "fgColor": "white"
+  },
+  {
+    "type": "huggingface",
+    "name": "Hugging Face Hub",
+    "label": "@rigarashi",
+    "url": "https://huggingface.co/rigarashi",
+    "bgColor": "black",
+    "fgColor": "white"
+  },
+  {
+    "type": "gitlab",
+    "name": "GitLab.com",
+    "label": "@neetshin",
+    "url": "https://gitlab.com/neetshin",
+    "bgColor": "#de3a25",
+    "fgColor": "white"
+  },
+  {
+    "type": "npm",
+    "name": "npm",
+    "label": "neetshin",
+    "url": "https://www.npmjs.com/~neetshin",
+    "bgColor": "#cb3837",
+    "fgColor": "white"
+  },
+  {
+    "type": "crates",
+    "name": "crates.io",
+    "label": "neet",
+    "url": "https://crates.io/users/neet",
+    "bgColor": "white",
+    "fgColor": "black"
+  },
+  {
+    "type": "pypi",
+    "name": "PyPI",
+    "label": "rigarashi",
+    "url": "https://pypi.org/user/rigarashi/",
+    "bgColor": "#306998",
+    "fgColor": "white"
+  },
+  {
+    "type": "docker",
+    "name": "DockerHub",
+    "label": "neetshin",
+    "url": "https://hub.docker.com/r/neetshin/",
+    "bgColor": "#1488c6",
+    "fgColor": "white"
+  },
+  {
+    "type": "bitcoin",
+    "name": "Bitcoin",
+    "label": "1Mf3exp4Taxx4cFcS6cMHppPnxarPGgUUp",
+    "copyable": "1Mf3exp4Taxx4cFcS6cMHppPnxarPGgUUp",
+    "bgColor": "#ff8e02",
+    "fgColor": "white"
+  },
+  {
+    "type": "patreon",
+    "name": "Patreon",
+    "label": "neetshin",
+    "url": "https://www.patreon.com/neetshin",
+    "bgColor": "#f96854",
+    "fgColor": "white"
+  },
+  {
+    "type": "keybase",
+    "name": "Keybase",
+    "label": "@neet",
+    "url": "https://keybase.io/neet",
+    "bgColor": "#FF6300",
+    "fgColor": "white"
+  }
+]
