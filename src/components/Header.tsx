@@ -14,7 +14,7 @@ export const Header: FC = () => {
           Ryō Igarashi
         </Link>
         <p>
-          有機的知識人
+          エピメテウス的人間の再生
         </p>
       </div>
     </header>

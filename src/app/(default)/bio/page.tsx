@@ -1,4 +1,13 @@
 import { PageTitle } from "@/components/PageTitle";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "プロフィール",
+  description: "はじめまして",
+  alternates: {
+    canonical: "/bio",
+  },
+};
 
 export default function Bio() {
   return (

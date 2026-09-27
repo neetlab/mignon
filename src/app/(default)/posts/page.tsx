@@ -5,10 +5,10 @@ import { PostList } from "@/components/PostList";
 import { PageTitle } from "@/components/PageTitle";
 
 export const metadata: Metadata = {
-  title: "Journals",
-  description: "fragments of my thoughts, feelings, and memory",
+  title: "ブログ",
+  description: "最近あった出来事です。",
   alternates: {
-    canonical: "/journals",
+    canonical: "/posts",
   },
 };
 
