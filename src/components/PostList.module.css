@@ -1,7 +1,13 @@
 .post_container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: var(--space-3);
+}
+
+@media screen and (min-width: 900px) {
+  .post_container {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 .post {
@@ -15,6 +21,7 @@
 }
 
 .eyecatch {
+  flex: 0 0 auto;
   position: relative;
   width: 100px;
   height: 100px;

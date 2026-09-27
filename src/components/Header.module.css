@@ -2,14 +2,15 @@
   width: 100%;
   max-width: var(--screen-m);
   margin: 0 auto;
+  padding: var(--space-2);
 }
 
 .title {
-  margin: var(--space-4) auto;
+  margin: var(--space-2) auto;
 }
 
 .title a {
-  font-size: 3em;
+  font-size: 1em;
   color: white;
   font-weight: bold;
 }
